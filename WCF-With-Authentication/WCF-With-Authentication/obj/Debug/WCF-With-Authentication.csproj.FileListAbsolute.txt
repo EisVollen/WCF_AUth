@@ -1,0 +1,7 @@
+G:\OtherProjects\HelloWords\WCF-With-Authentication\WCF-With-Authentication\bin\WCF-With-Authentication.dll.config
+G:\OtherProjects\HelloWords\WCF-With-Authentication\WCF-With-Authentication\bin\WCF-With-Authentication.dll
+G:\OtherProjects\HelloWords\WCF-With-Authentication\WCF-With-Authentication\bin\WCF-With-Authentication.pdb
+G:\OtherProjects\HelloWords\WCF-With-Authentication\WCF-With-Authentication\obj\Debug\WCF-With-Authentication.csprojResolveAssemblyReference.cache
+G:\OtherProjects\HelloWords\WCF-With-Authentication\WCF-With-Authentication\obj\Debug\WCF-With-Authentication.csproj.CoreCompileInputs.cache
+G:\OtherProjects\HelloWords\WCF-With-Authentication\WCF-With-Authentication\obj\Debug\WCF-With-Authentication.dll
+G:\OtherProjects\HelloWords\WCF-With-Authentication\WCF-With-Authentication\obj\Debug\WCF-With-Authentication.pdb

@@ -1,0 +1,9 @@
+G:\OtherProjects\HelloWords\ASMX.Service\ASMX.Service\bin\ASMX.Service.dll.config
+G:\OtherProjects\HelloWords\ASMX.Service\ASMX.Service\bin\ASMX.Service.dll
+G:\OtherProjects\HelloWords\ASMX.Service\ASMX.Service\bin\ASMX.Service.pdb
+G:\OtherProjects\HelloWords\ASMX.Service\ASMX.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\OtherProjects\HelloWords\ASMX.Service\ASMX.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\OtherProjects\HelloWords\ASMX.Service\ASMX.Service\obj\Debug\ASMX.Service.csprojResolveAssemblyReference.cache
+G:\OtherProjects\HelloWords\ASMX.Service\ASMX.Service\obj\Debug\ASMX.Service.csproj.CoreCompileInputs.cache
+G:\OtherProjects\HelloWords\ASMX.Service\ASMX.Service\obj\Debug\ASMX.Service.dll
+G:\OtherProjects\HelloWords\ASMX.Service\ASMX.Service\obj\Debug\ASMX.Service.pdb
